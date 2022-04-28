@@ -10,18 +10,18 @@ Hit Die: d8.
 
 | Skill         | Ability | Notes |
 | ------------  | :-----: | ----: |
-| Bluff         | (Cha)   | Synergies |
+| Bluff         | (Cha)   | [Synergies](../skills.md#skill-synergy) |
 | Diplomacy     | (Cha)   |  |
-| Handle Animal | (Cha)   | Synergies |
+| Handle Animal | (Cha)   | [Synergies](../skills.md#skill-synergy) |
 | Intimidate    | (Cha)   |  |
-| Knowledge     | (Int)   | all skills, taken individually, Synergies |
+| Knowledge     | (Int)   | all skills, taken individually, [Synergies](../skills.md#skill-synergy) |
 | Listen        | (Wis)   |  |
 | Perform       | (Cha)   |  |
 | Ride          | (Dex)   |  |
-| SenseMotive   | (Wis)   | Synergies |
+| SenseMotive   | (Wis)   | [Synergies](../skills.md#skill-synergy) |
 | SpeakLanguage | (none)  |  |
 | Spot          | (Wis)   |  |
-| Survival      | (Wis)   | Synergies |
+| Survival      | (Wis)   | [Synergies](../skills.md#skill-synergy) |
 | Swim          | (Str)   |  |
 
 Skill Points at 1st Level: (4 + Int modifier) x 4.
